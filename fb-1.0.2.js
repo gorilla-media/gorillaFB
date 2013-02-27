@@ -1,7 +1,7 @@
 /* 
  * @name        gorillaFB v 1.0.2 BETA
  * @date        2013-02-12
- * @developers  Tomasz Zaborski,
+ * @author      Tomasz Zaborski,
  * @company     Gorilla Media
  * @website     http://www.gorilla-media.pl
  * @homepage    https://dev.gorilla-media.pl
